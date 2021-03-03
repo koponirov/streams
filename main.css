@@ -3,13 +3,10 @@ body {
     background-color: #000000;
     color: #FFFFFF;
 }
-
 div.container {
     display: flex;
     flex-wrap: wrap;
     padding: 0;
-
-
 }
 .item {
     width: 50%;
