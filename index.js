@@ -10,7 +10,7 @@ let seeAlsoCameraIDList = []; // [id1, id2]
 
 let streams = [
     {id:3941, title: 'Novosibirsk', address: 'Deputatskaya 1'},
-    {id:4012, title: 'Novosibirsk', address: 'Deputatskaya 1'},
+    {id:4012, title: 'Moskva', address: 'Presnenskaya naberezhnaya 2'},
     {id:3945, title: 'Novosibirsk', address: 'Deputatskaya 1'},
     {id:3945, title: 'Novosibirsk', address: 'Deputatskaya 1'}]
 
