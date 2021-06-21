@@ -12,7 +12,7 @@ let streams = [
     {id:3941, title: 'Novosibirsk', address: 'Deputatskaya 1'},
     {id:4012, title: 'Moskva', address: 'Presnenskaya naberezhnaya 2'},
     {id:3945, title: 'Novosibirsk', address: 'Deputatskaya 1'},
-    {id:3945, title: 'Novosibirsk', address: 'Deputatskaya 1'}]
+    {id:4146, title: 'Novosibirsk', address: 'Deputatskaya 1'}]
 
 let container = document.getElementById('#container')
 
